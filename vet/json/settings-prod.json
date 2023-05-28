@@ -1,0 +1,24 @@
+{
+    "parameters": {
+        "credentialId": "",
+        "recipents": ""
+    },
+    "stages": [
+        {
+            "stageName": "production delivery",
+            "stageType": "vadidateCR",
+            "cr_num": ""
+        },
+        {
+            "stageType": "deployToKong",
+            "apiRepoUrl": "",
+            "apiRepoRef": "",
+            "apiURL": [
+                "1,2"
+            ],
+            "groupId": "",
+            "artifactId": "",
+            "version": ""
+        }
+    ]
+}
