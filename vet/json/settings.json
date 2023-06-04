@@ -6,11 +6,11 @@
     "stages": [
         {
             "stageType": "deployToKong",
-            "apiRepoUrl": "",
-            "apiRepoRef": "",
-            "apiURL":["s"],
-            "groupId": "",
-            "artifactId": 0,
+            "apiRepoUrl": "s",
+            "apiRepoRef": "d",
+            "apiURL":["https://a.b.c"],
+            "groupId": "a",
+            "artifactId": "0",
             "version": 2.0
         }
     ]
